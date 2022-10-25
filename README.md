@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @The-L3rNa3aN
-- I do random things. Mostly stupid.
-- Currently an intern programmer at Vincell Studios.
+# The L3rNa3aN
+## Pronounced "learn-eee-en".
+### Or just call me by my real name "Veman".
+
+I do a lot of things.<br>
+Currently an intern programmer at Vincell Studios.
 
 - Personal Email: vemancraft@gmail.com
 - Vincell Email: veman@vincellstudios.com
